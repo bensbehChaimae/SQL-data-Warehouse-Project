@@ -17,6 +17,7 @@ WARNING:
 USE master;
 GO
 
+/* WARNING !!!!!!!!!!!!! */
 -- Drop the 'DataWarehouse' database if it exist :
 IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DataWarehouse')
 BEGIN

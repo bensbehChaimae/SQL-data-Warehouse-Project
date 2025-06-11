@@ -17,7 +17,8 @@ Developed as part of my learning, this project reflects industry-aligned practic
 
 
 ## 🏗️ Data Architecture :
-![Data Architecture](docs/Data Architecture.png)
+![Data Architecture](docs/Data%20Architecture.png)
+
 ---
 
 ## 📂 Repository structure : 

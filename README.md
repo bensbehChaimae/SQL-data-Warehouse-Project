@@ -7,11 +7,11 @@ This repository showcases a complete data engineering workflow from designing an
 Developed as part of my learning, this project reflects industry-aligned practices in **data modeling**, **ETL processes**, and **SQL-based analytics**, offering a hands-on demonstration of how raw data can be transformed into valuable business intelligence.
 
 ---
-## Project overview : 
+## 🔍 Project overview : 
 
 ---
 
-## Project requirements : 
+## 🛠️ Project requirements : 
 
 ---
 

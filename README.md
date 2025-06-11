@@ -8,7 +8,7 @@ Developed as part of my learning, this project reflects industry-aligned practic
 
 ---
 
-# 🏗️ Data Architecture :
+## 🏗️ Data Architecture :
 
 
 

@@ -85,6 +85,25 @@ Each layer serves a specific purpose, improving data quality step by step and en
 ---
 
 ## 📂 Repository structure : 
+```
+data-warehouse-project/
+│
+├── datasets/                           # Raw dataset for the project 
+│
+├── docs/                               # Project documentation and architecture details
+│
+├── scripts/                            # SQL scripts for ETL and transformations
+│   ├── bronze/                         # Scripts for extracting and loading raw data
+│   ├── silver/                         # Scripts for cleaning and transforming data
+│   ├── gold/                           # Scripts for creating analytical models
+|   ├── init_database.sql               # First Script to Create Database and Schemas
+│
+├── tests/                              # Script to test the quality of data
+│
+├── README.md                           # Project overview and instructions
+├── LICENSE                             # License information for the repository
+└── requirements.txt                    # Dependencies and requirements for the project
+```
 
 ---
 

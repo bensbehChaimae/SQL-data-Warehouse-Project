@@ -1,5 +1,6 @@
 # SQL Data Warehouse and Analytics project 
 
+
 Welcome to my SQL Data Warehouse & Analytics Project! 🚀
 
 This repository showcases a complete data engineering workflow from designing and building a robust data warehouse to performing insightful analytics.

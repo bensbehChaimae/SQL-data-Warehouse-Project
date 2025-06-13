@@ -1,0 +1,10 @@
+## 🛠️ Project Requirements
+
+- **[SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)**  
+  Used as the main **relational database** to store and manage structured data.
+
+- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)**  
+  GUI tool for managing SQL Server, **writing queries**, and performing administrative tasks.
+
+- **[draw.io (diagrams.net)](https://app.diagrams.net/)**  
+  Used for creating **data modeling diagrams** like ERDs to visualize database structure.

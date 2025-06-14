@@ -50,7 +50,7 @@ These reports help decision-makers understand what’s working and where improve
 ## 🏗️ Data Architecture :
 
 This architecture follows the **Medallion Architecture**, organizing data into three main layers that gradually refine and prepare it for analysis.
-![Data Architecture](docs/2_Data_Architecture.png)
+![Data Architecture](docs/2_Data Architecture.png)
 
 ### Data Sources : 
 Two datasets were used for this project: one representing **CRM (Customer Relationship Management)** data and the other representing **ERP (Enterprise Resource Planning)** data.
